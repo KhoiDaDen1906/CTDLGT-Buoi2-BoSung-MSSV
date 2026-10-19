@@ -1,0 +1,14 @@
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/Buổi 2 (19-10).GeneratedMSBuildEditorConfig.editorconfig
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/Buổi 2 (19-10).AssemblyInfoInputs.cache
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/Buổi 2 (19-10).AssemblyInfo.cs
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/Buổi 2 (19-10).csproj.CoreCompileInputs.cache
+/Users/mrthanh/DSA/Buổi 2 (19-10)/bin/Debug/net10.0/Buổi 2 (19-10)
+/Users/mrthanh/DSA/Buổi 2 (19-10)/bin/Debug/net10.0/Buổi 2 (19-10).deps.json
+/Users/mrthanh/DSA/Buổi 2 (19-10)/bin/Debug/net10.0/Buổi 2 (19-10).runtimeconfig.json
+/Users/mrthanh/DSA/Buổi 2 (19-10)/bin/Debug/net10.0/Buổi 2 (19-10).dll
+/Users/mrthanh/DSA/Buổi 2 (19-10)/bin/Debug/net10.0/Buổi 2 (19-10).pdb
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/Buổi 2 (19-10).dll
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/refint/Buổi 2 (19-10).dll
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/Buổi 2 (19-10).pdb
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/Buổi 2 (19-10).genruntimeconfig.cache
+/Users/mrthanh/DSA/Buổi 2 (19-10)/obj/Debug/net10.0/ref/Buổi 2 (19-10).dll
