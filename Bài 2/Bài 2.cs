@@ -52,7 +52,7 @@ internal class Bai2
             }
             Console.WriteLine(); // Xuống dòng
         }
-    private static void Main(string[] args)
+    private static void Main2(string[] args)
     {
         // Khởi tạo mảng có 10 ô, đang có 5 phần tử hợp lệ theo đề bài
             int[] data = new int[10];
